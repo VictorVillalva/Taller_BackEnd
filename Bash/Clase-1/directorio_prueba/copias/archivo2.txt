@@ -1,0 +1,2 @@
+/home/victor/Documentos/Taller-Backend/Bash/Clase-1
+Hola fui escrito desde un script
